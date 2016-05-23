@@ -21,7 +21,7 @@ controller can be found at the following:
 Resources for Teensy programming:
 
 - [Wire Arduino Library on Teensy](https://www.pjrc.com/teensy/td_libs_Wire.html)
-- [MIDI on Teensy](https://www.pjrc.com/teensy/td_libs_MIDI.html)
+- [USB MIDI on Teensy](https://www.pjrc.com/teensy/td_midi.html)
 
 Parts
 -----
