@@ -33,8 +33,8 @@ Parts
 - Two 4.7K resistors
 - Breadboard (or some other means of wiring the components)
 
-Circuit
--------
+Schematic
+---------
 
 TODO
 

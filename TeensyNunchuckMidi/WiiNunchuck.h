@@ -15,6 +15,7 @@ public:
 
   void begin()
   {
+    // Initialize and turn off data encryption
     Wire.begin();
     Wire.beginTransmission(0x52);
     Wire.write(0xf0);
@@ -28,12 +29,14 @@ public:
 
   void update(unsigned int delayMs)
   {
+    // Request state
     Wire.beginTransmission(0x52);
     Wire.write(0x00);
     Wire.endTransmission();
 
     delay(delayMs);
 
+    // Read in the data
     int i = 0;
     Wire.requestFrom(0x52, 6);
     while (Wire.available()) {
