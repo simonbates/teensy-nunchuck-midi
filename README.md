@@ -1,7 +1,7 @@
 Teensy Wii Nunchuck MIDI controller
 ===================================
 
-This project contains code and instructions for building a
+This project contains code and information for making a
 Teensy-based Wii Nunchuck MIDI controller.
 
 Acknowledgments and Resources
