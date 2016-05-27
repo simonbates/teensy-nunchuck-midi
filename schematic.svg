@@ -15,7 +15,10 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="schematic.svg">
+   sodipodi:docname="schematic.svg"
+   inkscape:export-filename="/home/simon/projects/teensy-nunchuck-midi/schematic.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs4232" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.89"
-     inkscape:cx="376.8636"
+     inkscape:cx="376.3345"
      inkscape:cy="246.3539"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -60,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
