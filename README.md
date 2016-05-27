@@ -29,12 +29,18 @@ Parts
 - Wii Nunchuck controller
 - [Teensy](http://www.pjrc.com/teensy/index.html) (I'm using version 3.2)
 - [WiiChuck adapter](http://todbot.com/blog/2008/02/18/wiichuck-wii-nunchuck-adapter-available/)
-- Header pins for the WiiChuck adapter
 - Two 4.7K resistors
 - Breadboard (or some other means of wiring the components)
+- Header pins for the WiiChuck adapter
 
-Schematic
----------
+Circuit
+-------
+
+- Connect the WiiChuck '-' to GND
+- Connect the WiiChuck '+' to 3.3V
+- Connect the WiiChuck 'D' to the Teensy SDA0
+- Connect the WiiChuck 'C' to the Teensy SCL0
+- Use 4.7K pullup resistors on SCL0 andSDA0
 
 ![Circuit schematic](schematic.png)
 
