@@ -36,7 +36,7 @@ Parts
 Schematic
 ---------
 
-![Circuit schematic](schematic.svg)
+![Circuit schematic](schematic.png)
 
 Software
 --------
