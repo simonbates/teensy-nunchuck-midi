@@ -42,7 +42,7 @@ Circuit
 - Connect the WiiChuck '+' to 3.3V
 - Connect the WiiChuck 'D' to the Teensy SDA0
 - Connect the WiiChuck 'C' to the Teensy SCL0
-- Use 4.7K pullup resistors on SCL0 andSDA0
+- Use 4.7K pullup resistors on SCL0 and SDA0
 
 Software
 --------
